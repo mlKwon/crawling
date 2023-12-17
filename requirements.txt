@@ -1,0 +1,8 @@
+numpy>=1.13.3
+# torch>=0.4.0
+# transformers>=3.5.1
+scikit-learn
+ipykernel
+pandas
+torch==1.10.1+cu102
+transformers >= 4.8.1, <=4.8.1
